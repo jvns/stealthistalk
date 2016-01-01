@@ -8,7 +8,7 @@ Here are a couple of talk abstracts. feel free to steal them
 
 Audience: all Python programmers
 
-Are you frustrated by the speed of your Python programs? You don't need to be. Python is slow, but it's not *that* slow. You can run [100 million](http://computers-are-fast.github.io/) iterations of a loop in a second in Python. We'll get deep into the performance limitations of Python code, give you intuition for where to spend your time optimizing, and get you to write code that's comparable (not more than 10x slower) to the equivalent C/C++ code.
+Are you frustrated by the speed of your Python programs? You don't need to be. Python is slow, but it's not *that* slow. You can run [100 million](http://computers-are-fast.github.io/) iterations of a loop in a second in CPython. We'll get deep into the performance limitations of Python code, give you intuition for where to spend your time optimizing, explain when it might be appropriate to use PyPy, and get you to write code that's comparable (not more than 10x slower) to the equivalent C/C++ code.
 
 (title stolen from http://prog21.dadgum.com/210.html)
 
