@@ -2,7 +2,7 @@
 
 I have more ideas for programming talks than talks I actually want to give.
 
-Here are a couple of talk abstracts. feel free to steal them
+Here are a couple of talk abstracts. I would 100% go to these talks. feel free to steal them (or slightly more likely, come up with a talk that *you're* more interested in giving)
 
 ### Writing Fast Code in Slow Languages
 
