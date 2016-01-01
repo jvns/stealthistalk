@@ -14,6 +14,8 @@ Are you frustrated by the speed of your Python programs? You don't need to be. P
 
 ### What you need to know about JVM garbage collection
 
+Audience: Java/Clojure/Scala programmers who aren't super familiar with JVM internals
+
 Have you ever written a JVM web application? Then you've probably seen your application stop for seconds because of garbage collection.
 
 All hope is not lost! Understanding a little more about how JVM garbage collection works can take you a long way. We'll discuss the basics, talk about how to monitor your workload, do memory profiling, and make your JVM application run more reliably.
